@@ -1,0 +1,22 @@
+{
+  "name": "motamusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tig": "sass --watch css/scss/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoadjim/motaMusic1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoadjim/motaMusic1/issues"
+  },
+  "homepage": "https://github.com/tiagoadjim/motaMusic1#readme",
+  "description": ""
+}
