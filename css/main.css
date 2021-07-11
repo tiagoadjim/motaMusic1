@@ -983,12 +983,12 @@ p:last-child {
   }
 }
 .bg-image-04:after {
-  background: url(../media/bg/new-year-party-6PF4Y6N.jpg);
+  background: url(../media/bg/image-04@2x.jpg);
 }
 
 @media only screen and (max-width: 479px) {
   .bg-image-04:after {
-    background: url(../media/bg/new-year-party-6PF4Y6N.jpg);
+    background: url(../media/bg/image-04.jpg);
   }
 }
 .bg-image-05:after {
@@ -1001,12 +1001,12 @@ p:last-child {
   }
 }
 .bg-image-06:after {
-  background: url(../media/bg/dancing-party-P3DT2SQ.jpg);
+  background: url(../media/bg/image-06@2x.jpg);
 }
 
 @media only screen and (max-width: 479px) {
   .bg-image-06:after {
-    background: url(../media/bg/dancing-party-P3DT2SQ.jpg);
+    background: url(../media/bg/image-06.jpg);
   }
 }
 .bg-image-07:after {
@@ -2181,7 +2181,7 @@ ul.inline li:last-child {
 
 .logo span {
   display: inline-block;
-  font-family: "PT Serif", Georgia, serif;
+  font-family: "Poppins", Helvetica, sans-serif;
   vertical-align: top;
 }
 
